@@ -1,0 +1,8 @@
+box: ubuntu/trusty64
+hostname: wordboard
+name: WordBoard
+memory: 4096
+cpus: 2
+
+plugins:
+   - vagrant-vbguest
